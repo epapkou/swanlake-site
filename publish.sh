@@ -1,0 +1,1 @@
+docker push epapkou/swanlake:latest
